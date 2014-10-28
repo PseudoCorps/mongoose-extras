@@ -7,7 +7,7 @@ Example:
 
 ```js
 var mongoose = require('mongoose')
-require('mongoose-custom-types')( mongoose );
+require('mongoose-utils')( mongoose );
 
 //inside your model
 var Schema = mongoose.Schema
