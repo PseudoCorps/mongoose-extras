@@ -30,7 +30,7 @@ options = {
 	items: 10,
 	page: 1,
 	match: {
-		ipAddress: '127.0.0.1
+		ipAddress: '127.0.0.1'
 	}
 }
 
