@@ -8,9 +8,17 @@
   },
   "authors": "Hatim Wahdani <wahdanihatim@gmail.com>, Jeremy Shankle <jpschankle@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "mongoose": ">= 3.6.x"
   },
+	"repository": {
+  	"type": "git",
+		"url": "https://github.com/slashhatim/mongoose-extras"	
+  },
+	"scripts": {
+		"test": "make"
+	},
+  "keywords": ["model", "schema", "ip", "validation", "mongoose validation", "search", "list", "mongoose search", "orm"],
   "devDependencies": {
     "mocha": "*",
     "mongoose": "3.8.x",
