@@ -1,4 +1,4 @@
-#Mongoose Utils
+#Mongoose Extras
 =====================================
 
 Provides Custom Schema Types support for [Mongoose](http://mongoosejs.com).
@@ -7,7 +7,7 @@ Example:
 
 ```js
 var mongoose = require('mongoose')
-require('mongoose-utils')( mongoose );
+require('mongoose-extras')( mongoose );
 
 //inside your model
 var Schema = mongoose.Schema

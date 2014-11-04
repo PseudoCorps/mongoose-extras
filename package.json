@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-utils",
+  "name": "mongoose-extras",
   "version": "0.0.1",
   "description": "Provides Mongoose with custom schema types and smart search" ,
   "main": "index.js",
