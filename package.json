@@ -11,13 +11,13 @@
   "dependencies": {
     "mongoose": ">= 3.6.x"
   },
-	"repository": {
-  	"type": "git",
-		"url": "https://github.com/slashhatim/mongoose-extras"	
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slashhatim/mongoose-extras"  
   },
-	"scripts": {
-		"test": "make"
-	},
+  "scripts": {
+    "test": "make"
+  },
   "keywords": ["model", "schema", "ip", "validation", "mongoose validation", "search", "list", "mongoose search", "orm"],
   "devDependencies": {
     "mocha": "*",
