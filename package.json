@@ -1,6 +1,6 @@
 {
   "name": "mongoose-extras",
-  "version": "0.0.1",
+  "version": "0.0.1-pre",
   "description": "Provides Mongoose with custom schema types and smart search" ,
   "main": "index.js",
   "scripts": {
