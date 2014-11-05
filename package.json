@@ -6,7 +6,10 @@
   "scripts": {
     "test": "make test"
   },
-  "authors": "Hatim Wahdani <wahdanihatim@gmail.com>, Jeremy Shankle <jpschankle@gmail.com>",
+  "author": "Hatim Wahdani",
+	"contributors": [
+		"Name": "Jeremy Shankle",
+	],
   "license": "MIT",
   "dependencies": {
     "mongoose": ">= 3.6.x"
